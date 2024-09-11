@@ -1,0 +1,15 @@
+{
+  "validationMessage": {
+    "required": "This field is required",
+    "email": "Please enter a valid email address",
+    "passwordMinLength": "Password must be at least 8 characters long",
+    "passwordMaxLength": "Password must be no longer than 20 characters",
+    "passwordNotOneOf": "New password not be the same as the current password",
+    "upperCase": "Include at least one uppercase letter in your password",
+    "lowerCase": "Include at least one lowercase letter in your password",
+    "specialCharacter": "Include at least one special character (e.g., !, @, #)",
+    "oneNumber": "Include at least one numerical digit in your password",
+    "passwordMatch": "Passwords must match the New Password",
+    "invalidRole": "Role is Invalid"
+  }
+}

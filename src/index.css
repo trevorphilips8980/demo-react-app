@@ -1,0 +1,11 @@
+@import "./styles/loader.css";
+@import "./styles/full-page-loader.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --radius: 0.5rem;
+  }
+}
